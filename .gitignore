@@ -2,3 +2,5 @@
 .vscode/
 wp-data/
 wp-app/
+config/
+dev-tools/
