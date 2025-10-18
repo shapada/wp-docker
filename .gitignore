@@ -1,6 +1,6 @@
 .env
 .vscode/
-wp-data/
-wp-app/
-config/
-dev-tools/
+wp-data/*
+wp-app/*
+config/*
+dev-tools/*
