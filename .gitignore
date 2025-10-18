@@ -1,1 +1,4 @@
 .env
+.vscode/
+wp-data/
+wp-app/
